@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(39, 40, 56);
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: rgb(0, 102, 255);
+}
+h2{
+    color: rgb(0, 102, 255);
+}
+div{
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+    
+}
+#nomeca{
+    color: rgb(255, 255, 255);
+}
+#nomeca2{
+    color: rgb(0, 0, 0);
+
+}
+a{
+    color: aliceblue;
+}
+#letramenu{
+    color: rgb(0, 102, 255);
+}
+nav{
+    border-radius: 10px;
+}
